@@ -31,32 +31,32 @@ global.sig = 'https://instagram.com/AlyaaXd'
 global.syt = 'https://youtube.com/@AlyaaXzy ?'
 global.sgh = 'https://github.com/AlyaaXd'
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/66289505165400'
-global.swa = 'wa.me/6289505165400'
+global.sdc = 'https://wa.me/62859180658541'
+global.swa = 'wa.me/62859180658541'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085730903853'
+global.pdana = '62859180658541'
 global.povo = '-'
-global.pgopay = '085730903853'
-global.ppulsa = '085730903853'
+global.pgopay = '-'
+global.ppulsa = '62859180658541'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285730903853'
-global.nomorown = '6289505165400'
-global.namebot = 'DaunBotz'
-global.nameown = 'AlyaaXd'
+global.nomorown = '62859180658541'
+global.namebot = 'NobiBotz'
+global.nameown = 'NoviXd'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289505165400'],
-  ['6289505165400'],
-  ['6289505165400'],
-  ['6289505165400', 'AlyaaXd', true]
+  ['62859180658541'],
+  ['62859180658541'],
+  ['62859180658541'],
+  ['62859180658541', 'AlyaaXd', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -388,7 +388,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickauth = `NobiModz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
